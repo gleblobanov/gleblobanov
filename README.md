@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gleblobanov
 - 👀 I’m interested in functional programming and computational linguistics
-- 🌱 I’m currently learning Haskell and Go
+- 🌱 My languages of choice are F# & Haskell
 - 💞️ I’m looking to collaborate on NLP projects
 - 📫 How to reach me: mail@gleblobanov.ru
 
