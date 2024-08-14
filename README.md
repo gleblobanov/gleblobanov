@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gleblobanov
-- 👀 I’m interested in functional programming and computational linguistics
-- 🌱 My languages of choice are F# & Haskell
+- 👀 I’m interested in algorithms, languages and logic
+- 🌱 My language of choice is OCaml
 - 💞️ I’m looking to collaborate on NLP projects
 - 📫 How to reach me: mail@gleblobanov.ru
 
